@@ -1,0 +1,1118 @@
+{
+	"art": [{
+			"BookId ": "1",
+			"BookName": "Steal Like An Artist",
+			"Author": "Austin Kleon",
+			"price": "12.95",
+			"category": "Art",
+			"popularity": "High",
+			"onsale": "yes",
+			"description": "You don’t need to be a genius, you just need to be yourself. That’s the message from Austin Kleon, a young writer and artist who knows that creativity is everywhere, creativity is for everyone.",
+			"src": "New Books/Art1.png"
+		},
+
+		{
+			"BookId": "2",
+			"BookName": "Watercolor Painting outside the lines",
+			"Author": "Linda kemp",
+			"price": "18.85",
+			"category": "Art",
+			"popularity": "High",
+			"onsale": "yes",
+			"description": "Watercolor Painting Outside the Lines is a comprehensive guide to evoking more passion in your paintings.",
+			"src": "New Books/Art2.jpg"
+		},
+
+		{
+			"BookId ": "3",
+			"BookName": "Van Gogh",
+			"Author": "Vincent Van Gogh",
+			"price": "5.00",
+			"category": "Art",
+			"popularity": "High",
+			"onsale": "yes",
+			"description": "Vincent van Gogh’s life and work are so intertwined that it is hardly possible to observe one without thinking of the other. Van Gogh has indeed become the incarnation of the suffering, misunderstood martyr of modern art, the emblem of the artist as an outsider.",
+			"src": "New Books/Art3.jpg"
+		},
+
+		{
+			"BookId ": "4",
+			"BookName": "The Renaissance",
+			"Author": "Linda kemp",
+			"price": "4.99",
+			"category": "Art",
+			"popularity": "High",
+			"onsale": "yes",
+			"description": "The era now referred to as the Renaissance represented an unparalleled blossoming of art and culture.",
+			"src": "New Books/Art4.jpg"
+		}
+	],
+
+	"Drama": [{
+			"BookId ": "Drama1",
+			"BookName": "Antigone,",
+			"Author": "Sophocles; Ruby Blondell",
+			"price": "6.95",
+			"category": "Drama",
+			"popularity": "Medium",
+			"onsale": "yes",
+			"description": "This is an English translation of Sophocles’ tragedy of Antigone and her fate when she decides to bury her dead brother Polyneices. ",
+			"src": "New Books/Drama1.jpg"
+		},
+
+		{
+			"BookId ": "Drama2",
+			"BookName": "Private Peaceful",
+			"Author": "Michael Morpurgo; Simon Reade",
+			"price": "12.99",
+			"category": "Drama",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Private Peaceful relives the life of Private Tommo Peaceful, a young First World War soldier awaiting the firing squad at dawn.",
+			"src": "New Books/Drama2.jpg"
+		},
+
+		{
+			"BookId ": "Drama3",
+			"BookName": "Nineteen Eighty-Four",
+			"Author": "George Orwell; Mathew Dunster",
+			"price": "12.99",
+			"category": "Drama",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", War is Peace. Freedom is Slavery. Ignorance is Strength.",
+			"src": "New Books/Drama3.jpg"
+		}, {
+			"BookId ": "Drama4",
+			"BookName": "The sonnets",
+			"Author": "William Shakespeare",
+			"price": "12.30",
+			"category": "Drama",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "In his own time, Shakespeare was best known to the reading public as a poet, and even today copies of his Sonnets regularly outsell everything else he wrote.",
+			"src": "New Books/Drama4.jpg"
+		}
+	],
+
+	"Humor": [{
+			"BookId ": "Humor1",
+			"BookName": "Piano Player in a Whorehouse",
+			"Author": "Paul Carter",
+			"price": "9.53",
+			"category": "Humor",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Great two-fisted writing from the far side of hell.' - John Birmingham, bestselling author of He Died with a Felafel in his Hand and Dopeland. ",
+			"src": "New Books/Humour1.jpg"
+		},
+
+		{
+			"BookId ": "Humor2",
+			"BookName": "Henry and Ribsy",
+			"Author": "Beverly Cleary",
+			"price": "5.24",
+			"category": "Humor",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "In this humorous and heartfelt novel from Newbery Medal-winning author Beverly Cleary, the bond between a boy and his dog proves strong, as Henry vows to stick up for Ribsy…even if he is a trouble-maker!",
+			"src": "New Books/Humour2.jpg"
+		},
+
+		{
+			"BookId ": "Humor3",
+			"BookName": "Fuhgeddaboutit",
+			"Author": "Jon Macks",
+			"price": "9.95",
+			"category": "Humor",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", Fuhgeddaboutit: How to Badda Boom, Badda Bing, and Find Your Inner Mobster is the definitive guide on how to be a twenty-first-century made man.",
+			"src": "New Books/Humour3.jpg"
+		}, {
+			"BookId ": "Humor4",
+			"BookName": "Brocabulary",
+			"Author": "Daniel Maurer",
+			"price": "11.24",
+			"category": "Humor",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "",
+			"src": "New Books/Humour4.jpg"
+		}
+	],
+
+	"Music": [{
+			"BookId ": "Music1",
+			"BookName": "My lord has come",
+			"Author": "Will Todd",
+			"price": "1.71",
+			"category": "Music",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "for SATB unaccompaniedThis heartfelt setting of words by the composer begins with a pianissimo drone over which the sopranos introduce the expressive melody.",
+			"src": "New Books/Music1.jpg"
+		},
+
+		{
+			"BookId ": "Music2",
+			"BookName": "Biography of Eminem",
+			"Author": "Jack Westerfil",
+			"price": "4.95",
+			"category": "Music",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "When Marshall Mathers, better known as Eminem, made his album debut with The Slim Shady LP in the spring of 1999, he evoked an immediate and controversial response. ",
+			"src": "New Books/Music2.jpg"
+		},
+
+		{
+			"BookId ": "Music3",
+			"BookName": "MIDI Power",
+			"Author": "Robert Guerin",
+			"price": "34.99",
+			"category": "Music",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "From how MIDI works, to how to connect devices through it, to how it integrates into a computer environment, ",
+			"src": "New Books/Music3.jpg"
+		}, {
+			"BookId ": "Music4",
+			"BookName": "Toques Especiales",
+			"Author": "Adrian Coburg",
+			"price": "19.99",
+			"category": "Music",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "This is Adrian Coburg's transcription book of various Bata scores to celebrate religious ceremonies.",
+			"src": "New Books/Music4.jpg"
+		}
+	],
+	"Photography": [{
+			"BookId ": "Photography1",
+			"BookName": "Astrophotography",
+			"Author": "Thierry Legault",
+			"price": "31,99",
+			"category": "Photography",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", Today's photographic equipment allows amateurs to take pictures of the stars that far surpass images taken just a few decades ago by even the largest observatories-and this book will teach you how.",
+			"src": "New Books/Photography1.jpg"
+		},
+
+		{
+			"BookId ": "Photography2",
+			"BookName": "Service Quality Management",
+			"Author": "Connie Mok",
+			"price": "67.95",
+			"category": "Photography",
+			"popularity": "High",
+			"onsale": "yes",
+			"description": ", Does your staff deliver the highest quality service possible?",
+			"src": "New Books/Photography2.jpg"
+		},
+
+		{
+			"BookId ": "Photography3",
+			"BookName": "Quiet Hours",
+			"Author": "Mike Melman",
+			"price": "35.00",
+			"category": "Photography",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", A milling district along the Mississippi River. A railroad bridge on Washington Avenue.",
+			"src": "New Books/Photography3.jpg"
+		}, {
+			"BookId ": "Photography4",
+			"BookName": "Photographic Lighting",
+			"Author": "John Child",
+			"price": "27.95",
+			"category": "Photography",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Photographic Lighting: Essential Skills offers practical coverage of everything you need to know to understand the characteristics of light and the foundations of photographic lighting.",
+			"src": "New Books/Photography4.jpg"
+		}
+	],
+
+	"Biography": [{
+			"BookId ": "Biography1",
+			"BookName": "Killing Patton",
+			"Author": "Bill O’ Reilly",
+			"price": "22.50",
+			"category": "Biography",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Readers around the world have thrilled to Killing Lincoln, Killing Kennedy, and Killing Jesus--riveting works of nonfiction that journey into the heart of the most famous murders in history.",
+			"src": "New Books/Biography1.jpg"
+		},
+
+		{
+			"BookId ": "Biography2",
+			"BookName": "Killing Linconln",
+			"Author": "Bill O’ Reilly",
+			"price": "9.24",
+			"category": "Biography",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "A riveting historical narrative of the heart-stopping events surrounding the assassination of Abraham Lincoln, and the first work of history from mega-bestselling author Bill O'Reilly.",
+			"src": "New Books/Biography2.jpg"
+		},
+
+		{
+			"BookId ": "Biography3",
+			"BookName": "Soldiers to Citizens",
+			"Author": "Suzanne Mettler",
+			"price": "12.89",
+			"category": "Biography",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "A hell of a gift, an opportunity. Magnanimous. One of the greatest advantages I ever experienced. These are the voices of World War II veterans, lavishing praise on their beloved G.I. Bill. ",
+			"src": "New Books/Biography3.jpg"
+		}, {
+			"BookId ": "Biography4",
+			"BookName": "Memories of Muhammad",
+			"Author": "Omid Safi",
+			"price": "12.24",
+			"category": "Biography",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "In Memories of Muhammad: Why the Prophet Matters, leading Islamic scholar Omid Safi presents a portrait of Muhammad that reveals his centrality in the devotions of modern Muslims around the world. ",
+			"src": "New Books/Biography4.jpg"
+		}
+	],
+
+	"Sports": [{
+			"BookId ": "Sports1",
+			"BookName": "Mind Gym",
+			"Author": "Gary Mack",
+			"price": "14.76",
+			"category": "Sports",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Believing in yourself is paramount to success for any athlete. Gary's lessons and David's writing provide examples of the importance of the mental game",
+			"src": "New Books/Sports1.jpg"
+		},
+
+		{
+			"BookId ": "Sports2",
+			"BookName": "Cricket For Dummies",
+			"Author": "Julian Knight",
+			"price": "15.39",
+			"category": "Sports",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Whether you’re a weekend cricketer or aspiring armchair expert,Cricket For Dummies helps you make sense of this fascinating sport. ",
+			"src": "New Books/Sports2.jpg"
+		},
+
+		{
+			"BookId ": "Sports3",
+			"BookName": "Levels of the Game",
+			"Author": "John McPhee",
+			"price": "11.25",
+			"category": "Sports",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "This account of a tennis match played by Arthur Ashe against Clark Graebner at Forest Hills in 1968 begins with the ball rising into the air for the initial serve and ends with the final point.",
+			"src": "New Books/Sports3.jpg"
+		}, {
+			"BookId ": "Sports4",
+			"BookName": "Across a Hundred Mountains",
+			"Author": "Reyna Grande",
+			"price": "16.00",
+			"category": "Sports",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Winner of the American Book Award, Across a Hundred Mountains is a stunning and poignant novel about a young girl who leaves her small town in Mexico to find her father, who left his family to find work in America—a story of migration, loss, and discovery",
+			"src": "New Books/Sports4.jpg"
+		}
+	],
+
+	"Business": [{
+			"BookId ": "Business1",
+			"BookName": "Marketing",
+			"Author": "David Pickton",
+			"price": "54.00",
+			"category": "Business",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", Winners - British Book Design Awards 2014 in the category Best Use of Cross Media",
+			"src": "New Books/Business1.jpg"
+		},
+
+		{
+			"BookId ": "Business2",
+			"BookName": "The Negotiation Book",
+			"Author": "Steve Gates",
+			"price": "25.96",
+			"category": "Business",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Negotiation is one of the most important skills in business.",
+			"src": "New Books/Business2.jpg"
+		},
+
+		{
+			"BookId ": "Business3",
+			"BookName": "Leadership",
+			"Author": "Peter G. Northouse",
+			"price": "61.20",
+			"category": "Business",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Translated into 12 different languages and used in 89 countries, this market-leading text successfully combines an academically robust account of the major theories and models of leadership with an accessible style and practical examples that help students apply what they learn",
+			"src": "New Books/Business3.jpg"
+		}, {
+			"BookId ": "Business4",
+			"BookName": "The Challenger Sale",
+			"Author": "Brent Adamson",
+			"price": "21.14",
+			"category": "Business",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", In The Challenger Sale, Matthew Dixon and Brent Adamson share the secret to sales success: don't just build relationships with customers. Challenge them",
+			"src": "New Books/Business4.jpg"
+		}
+	],
+
+	"Careers": [{
+			"BookId ": "Careers1",
+			"BookName": "How to win Friends and influence people",
+			"Author": "Dale Carnegie",
+			"price": "22.99",
+			"category": "Careers",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "In How to Win Friends and Influence People, Carnegie offers practical advice and techniques, in his exuberant and conversational style, for how to get out of a mental rut and make life more rewarding.",
+			"src": "New Books/carrer1.jpeg"
+		},
+
+		{
+			"BookId ": "Career2",
+			"BookName": "Legacy",
+			"Author": "James Kerr",
+			"price": "27.99",
+			"category": "Careers",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "In Legacy, best-selling author James Kerr goes deep into the heart of the world's most successful sporting team, the legendary All Blacks of New Zealand, to reveal 15 powerful and practical lessons for leadership and business.",
+			"src": "New Books/Carrer2.jpeg"
+		},
+
+		{
+			"BookId ": "Career3",
+			"BookName": "The Secret",
+			"Author": "Rhonda Byrne",
+			"price": "40.99",
+			"category": "Careers",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", In this book, you'll learn how to use The Secret in every aspect of your life – money, health, relationships, happiness, and in every interaction you have in the world.",
+			"src": "New Books/Carrer3.jpeg"
+		}, {
+			"BookId ": "Career4",
+			"BookName": "Don’t Sweat the small Stuff",
+			"Author": "Richard Carlson",
+			"price": "20.50",
+			"category": "Careers",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", A book that shows you how to keep from letting the little things in life drive you crazy.",
+			"src": "New Books/Carrer4.jpeg"
+		}
+	],
+
+	"Investment": [{
+			"BookId ": "Investment1",
+			"BookName": "The Intelligent Investor",
+			"Author": "Benjamin Graham",
+			"price": "30.99",
+			"category": "Investment",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "The classic bestseller by Benjamin Graham, The Intelligent Investor has taught and inspired hundreds of thousands of people worldwide.",
+			"src": "New Books/Investing1.jpeg"
+		},
+
+		{
+			"BookId ": "Investment2",
+			"BookName": "The Davis Dynasty",
+			"Author": "John Rothchild",
+			"price": "20.00",
+			"category": "Investment",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Praise for The Davis Dynasty Equally relevant to the uninitiated and to those of us who have many years' experience with the Davis dynasty, Rothchild's book takes a close look at the family's remarkable success and endurance. ",
+			"src": "New Books/Investing2.jpeg"
+		},
+
+		{
+			"BookId ": "Investment3",
+			"BookName": "Get Rich With Dividends",
+			"Author": "Marc Lichtenfeld",
+			"price": "43.00",
+			"category": "Investment",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", A comprehensive guide to dividend investing that shows how toobtain double-digit returns with ease.",
+			"src": "New Books/Investing3.jpeg"
+		}, {
+			"BookId ": "Investment4",
+			"BookName": "The SnowBall",
+			"Author": "Alice Schroeder",
+			"price": "35.00",
+			"category": "Investment",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "The biography of the world's richest man and the only book on Warren Buffett that has his full cooperation.",
+			"src": "New Books/Investing4.jpeg"
+		}
+	],
+
+	"Cocking_Food": [{
+			"BookId ": "Cocking_Food1",
+			"BookName": "Everyday Delicious",
+			"Author": "Chelsea Winter",
+			"price": "39.99",
+			"category": "Cocking and Food",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Tasty, quick, easy weeknight meals from the very popular MasterChef NZ winner Chelsea Winter",
+			"src": "New Books/Cocking1.jpeg"
+		},
+
+		{
+			"BookId ": "Cocking_Food2",
+			"BookName": "At My Table",
+			"Author": "Chelsea Winter",
+			"price": "44.99",
+			"category": "Cocking and Food",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "At My Table is the one that started it all. Chelsea Winter's first book is a stunning selection of some of her most popular recipes u it's a must-have. ",
+			"src": "New Books/Cocking2.jpeg"
+		},
+
+		{
+			"BookId ": "Cocking_Food3",
+			"BookName": "Thug Kitchen",
+			"Author": "Thug Kitchen",
+			"price": "34.99",
+			"category": "Cocking and Food",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Thug Kitchen started their wildly popular website to inspire people to eat some Goddamn vegetables and adopt a healthier lifestyle. ",
+			"src": "New Books/Cocking3.jpeg"
+		}, {
+			"BookId ": "Cocking_Food4",
+			"BookName": "Scrumptious,",
+			"Author": "Chelsea Winter",
+			"price": "34.99",
+			"category": "Cocking and Food",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "The eagerly anticipated follow-up to Homemade Happiness, Everyday Delicious and At My Table. Chelsea Winter has become a saviour in the kitchen. Discover why with this utterly scrumptious collection of recipes.",
+			"src": "New Books/Cocking4.jpeg"
+		}
+	],
+
+	"Education": [{
+			"BookId ": "Education1",
+			"BookName": "Quality Questioning",
+			"Author": "Jackie A. Walsh",
+			"price": "30.56",
+			"category": "Education",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Use effective questions to advance student thinking, learning, and achievement! ",
+			"src": "New Books/Education1.jpg"
+		},
+
+		{
+			"BookId ": "Education2",
+			"BookName": "Classroom Management that Works",
+			"Author": "Robert J. Marzano",
+			"price": "22.50",
+			"category": "Education",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", How does classroom management affect student achievement? What techniques do teachers find most effective? ",
+			"src": "New Books/Education2.jpg"
+		},
+
+		{
+			"BookId ": "Education3",
+			"BookName": "School Leader Internship",
+			"Author": "Gary E. Martin",
+			"price": "44.95",
+			"category": "Education",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": ", School leadership internships are the bridge between classroom teachers and first-time leadership positions.",
+			"src": "New Books/Education3.jpg"
+		}, {
+			"BookId ": "Education4",
+			"BookName": "The Study Skills Handbook",
+			"Author": "Stella Cottrell",
+			"price": "24.00",
+			"category": "Education",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "If you are serious about succeeding with your studies, The Study Skills Handbook is for you! Stella Cottrell has helped hundreds of thousands of students to make learning easier, faster and more enjoyable.",
+			"src": "New Books/Education4.jpg"
+		}
+	],
+
+	"Fiction_Poetry": [{
+			"BookId ": "Fiction_Poetry1",
+			"BookName": "The Girl You Left Behind",
+			"Author": "Jojo Moyes",
+			"price": "11.27",
+			"category": "Fiction and Poetry",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": ", In 1916 French artist Edouard Lefevre leaves his wife Sophie to fight at the Front. When her town falls into German hands, his portrait of Sophie stirs the heart of the local Kommandant and causes her to risk everything - her family, reputation and life - in the hope of seeing her true love one last time.",
+			"src": "New Books/Fiction1.jpg"
+		},
+
+		{
+			"BookId ": "Fiction_Poetry2",
+			"BookName": "Shirley",
+			"Author": "Charlotte Bronte",
+			"price": "3.99",
+			"category": "Fiction and Poetry",
+			"popularity": "Medium",
+			"onsale": "yes",
+			"description": "Shirley was the second published novel by Charlotte Bronte, afterJane Eyre.",
+			"src": "New Books/Fiction2.jpg"
+		},
+
+		{
+			"BookId ": "Fiction_Poetry3",
+			"BookName": "Ishmael",
+			"Author": "Daniel Quinn",
+			"price": "18.00",
+			"category": "Fiction and Poetry",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": ", One of the most beloved and bestselling novels of spiritual adventure ever published, Ishmael has earned a passionate following among readers and critics alike.",
+			"src": "New Books/Fiction3.jpg"
+		}, {
+			"BookId ": "Fiction_Poetry4",
+			"BookName": "Shataram",
+			"Author": "Gregory David Roberts",
+			"price": "13.49",
+			"category": "Fiction and Poetry",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "It took me a long time and most of the world to learn what I know about love and fate and the choices we make, but the heart of it came to me in an instant, while I was chained to a wall and being tortured",
+			"src": "New Books/Fiction4.jpg"
+		}
+	],
+
+	"Travel": [{
+			"BookId ": "Travel1",
+			"BookName": "Maori Made Easy",
+			"Author": "Scotty Morrison",
+			"price": "31.00",
+			"category": "Travel",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "The complete and accessible guide to learning the Maori language, no matter your knowledge level. ",
+			"src": "New Books/travel1.jpeg"
+		},
+
+		{
+			"BookId ": "Travel2",
+			"BookName": "New Zealand Aotearoa",
+			"Author": "Craig Potton",
+			"price": "29.99",
+			"category": "Travel",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "In New Zealand: Aotearoa one of New Zealand's pre-eminent photographers presents an outstanding photographic testimony to New Zealand's magnificent natural landscapes and cultural hallmarks.",
+			"src": "New Books/Travel2.jpeg"
+		},
+
+		{
+			"BookId ": "Travel3",
+			"BookName": "Vietnam",
+			"Author": "Lonely Planet",
+			"price": "42.99",
+			"category": "Travel",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Best-selling guide to Vietnam Lonely Planet Vietnam is your passport to the most relevant, up-to-date advice on what to see and skip, and what hidden discoveries await you. ",
+			"src": "New Books/Travel3.jpeg"
+		}, {
+			"BookId ": "Travel4",
+			"BookName": "Humans of New York, ",
+			"Author": "Brandon Staton",
+			"price": "34.99",
+			"category": "Travel",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Surprising and moving, printed in a beautiful full-color, hardbound edition, Humans of New York is a celebration of individuality and a tribute to the spirit of the city.",
+			"src": "New Books/Travel4.jpg"
+		}
+	],
+
+	"Health_self_help": [{
+			"BookId ": "Health_self_help1",
+			"BookName": "Going Paleo",
+			"Author": "Pete Evans",
+			"price": "29.99",
+			"category": "Health and Selfhelp",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Going Paleo is the only book you'll need to transform the way you eat – and change the way you look and feel – for good. This comprehensive and user-friendly guide shows you both why to go paleo and how to go paleo, with over 80 essential recipes to get you started.",
+			"src": "New Books/Health1.jpeg"
+		},
+
+		{
+			"BookId ": "Health_self_help2",
+			"BookName": "An Introduction to the Lightning Process",
+			"Author": "Phil Parker",
+			"price": "34.99",
+			"category": "Health and Selfhelp",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "You may have already heard about the extraordinary results achieved by people using the Phil Parker Lightning Process(R) to transform and enhance their lives, health and success.",
+			"src": "New Books/Health2.jpeg"
+		},
+
+		{
+			"BookId ": "Health_self_help3",
+			"BookName": "Show Me The Money: Honey",
+			"Author": "Ian Wishart",
+			"price": "32.99",
+			"category": "Health and Selfhelp",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": ", Show Me The Money, Honey is the sequel to Wishart's inter¬national bestseller Vitamin D, praised by doctors and researchers for its thoroughness.",
+			"src": "New Books/Health3.jpeg"
+		}, {
+			"BookId ": "Health_self_help",
+			"BookName": "The 8-Week Blood Sugar Diet",
+			"Author": "Michael Molsey",
+			"price": "24.99",
+			"category": "Health and Selfhelp",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Dr Michael Mosley, author of the bestselling 5:2 Fast Diet, reveals a game-changing approach to one of the greatest silent epidemics of our time - raised blood sugar levels. ",
+			"src": "New Books/Health4.jpeg"
+		}
+	],
+
+	"Medicine": [{
+			"BookId ": "Medicine1",
+			"BookName": "Integrated Pharmacy Case",
+			"Author": "Sally Francis",
+			"price": "59.99",
+			"category": "Medicine",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": ", Over ninety individual cases based on real-life scenarios. Each case draws on the fundamental aspects of pharmaceutical chemistry, pharmacology, pharmaceutics and therapeutics within a patient-care context.",
+			"src": "New Books/Medicine1.jpg"
+		},
+
+		{
+			"BookId ": "Medicine2",
+			"BookName": "Basic Pharmacokinetics",
+			"Author": "Sunil Jambhekar",
+			"price": "89.00",
+			"category": "Medicine",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", asic Pharmacokinetics provides an understanding of the principles of pharmacokinetics and biopharmaceutics and of how these principles can be applied to achieve successful drug therapy.",
+			"src": "New Books/Medicine2.jpg"
+		},
+
+		{
+			"BookId ": "Medicine3",
+			"BookName": "The Brain that Changes itself",
+			"Author": "Norman Doidge",
+			"price": "20.99",
+			"category": "Medicine",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "An astonishing new scientific discovery called neuroplasticity is overthrowing the centuries-old notion that the adult human brain is fixed and unchanging. It is, instead, able to change its own structure and function, even into old age.",
+			"src": "New Books/Medicine3.jpg"
+		}, {
+			"BookId ": "Medicine4",
+			"BookName": "Atlas of Human Anatomy",
+			"Author": "Frank H Netter",
+			"price": "74.99",
+			"category": "Medicine",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Atlas of Human Anatomy offers unsurpassed depictions of the human body in clear, brilliant detail – all from a clinician’s perspective.",
+			"src": "New Books/Medicine4.jpg"
+		}
+	],
+
+	"Philosophy": [{
+			"BookId ": "Philosophy1",
+			"BookName": "The course of love",
+			"Author": "Alain de Botton",
+			"price": "21.14",
+			"category": "Philosophy",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": ", Twenty years after his bestselling debut Essays in Love, internationally acclaimed author Alain de Botton returns to fiction with a brilliant new novel about modern relationships",
+			"src": "New Books/Philosophy1.jpg"
+		},
+
+		{
+			"BookId ": "Philosophy2",
+			"BookName": "Symposium",
+			"Author": "Plato",
+			"price": "9.50",
+			"category": "Philosophy",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", A model of the kind of text one needs for lecture courses: the translation is extremely readable and made even more accessible by intelligent printing decisions (on dividing the text, spacing for clarification, etc.); the notes are kept to a minimum but appear when they are really needed for comprehension and are truly informative. ",
+			"src": "New Books/Philosophy2.jpg"
+		},
+
+		{
+			"BookId ": "Philosophy3",
+			"BookName": "Plato Republic",
+			"Author": "Plato",
+			"price": "10.95",
+			"category": "Philosophy",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "High, he revised edition of Grube's classic translation follows and furthers Grube's noted success in combining fidelity to Plato’s text with natural readability, while reflecting the fruits of new scholarship and insights into Plato's thought since publication of the first edition in 1974.",
+			"src": "New Books/Philosophy3.jpg"
+		}, {
+			"BookId ": "Philosophy4",
+			"BookName": "Ancient Greece",
+			"Author": "Paul Cartledge",
+			"price": "6.87",
+			"category": "Philosophy",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "The contribution of the Ancient Greeks to modern western culture is incalculable. In the worlds of art, architecture, myth, literature, and philosophy, the world we live in would be unrecognizably different without the formative influence of Ancient Greek models.",
+			"src": "New Books/Philosophy4.jpg"
+		}
+	],
+
+	"Gardening": [{
+			"BookId ": "Gardening1",
+			"BookName": "Yates Garden Guide 2015",
+			"Author": "Yates",
+			"price": "37.99",
+			"category": "Gardening",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "YATES GARDEN GUIDE is Australia's bes¬tselling gardening bible. The new edition is a must-have for keen beginners or old hands alike, covering everything today's gardener wants to know, from creating stylish outdoor spaces to growing your own produce, starting a co-op garden and so much more.",
+			"src": "New Books/Garden1.jpeg"
+		},
+
+		{
+			"BookId ": "Gardening2",
+			"BookName": "Gardening in New Zealand Month by Month",
+			"Author": "Dennis Greville",
+			"price": "36.52",
+			"category": "Gardening",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Gardening, High, New Zealand's benign climate creates superb growing conditions for flowers, fruit and vegetables, so it's no wonder that Kiwis love to turn their garden into a slice of paradise. ",
+			"src": "New Books/Garden2.jpeg"
+		},
+
+		{
+			"BookId ": "Gardening3",
+			"BookName": "Grow Your Own Groceries",
+			"Author": "Linda Gray",
+			"price": "19.95",
+			"category": "Gardening",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Producing your own food is not only rewarding but - in times of economic and environmental changes - increasingly a must! Nature provides everything the human body requires to thrive, and cultivating some of those natural products in your own back garden will not only produce the best food on the planet for you and your loved ones. ",
+			"src": "New Books/Garden3.jpg"
+		}, {
+			"BookId ": "Gardening4",
+			"BookName": "The Flower Farmer’s Year",
+			"Author": "Georgie Newbery",
+			"price": "22.99",
+			"category": "Gardening",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "I love this book - it's a beautiful yet practical and accessible guide that will help you transform whatever sized patch you have into an abundant oasis of flowers.",
+			"src": "New Books/Garden4.jpg"
+		}
+	],
+
+	"Interior_Design": [{
+			"BookId ": "Interior_Design1",
+			"BookName": "Dictionary of Furniture",
+			"Author": "Charles Boyce",
+			"price": "19.99",
+			"category": "Interior Design",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "a comprehensive listing of entries from Aalto, Hugo Alvar Henrik to Zui Weng Yi, Boyce illuminates readers about furniture styles, construction details, terminology, furniture designers, and design movements throughout history and throughout the world",
+			"src": "New Books/Interior1.jpg"
+		},
+
+		{
+			"BookId ": "Interior_Design2",
+			"BookName": "Simple Pleasures Nesting",
+			"Author": "Susnnah Seton",
+			"price": "12.00",
+			"category": "Interior Design",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Simple Pleasures of Nesting offers a treasure trove of stories, recipes, crafts, and ideas for fun times that enhance the joy of being at home. From homemade pretzels to indoor gardens, and inspires one to completely indulge in the art of being at home. ",
+			"src": "New Books/Interior2.jpg"
+		},
+
+		{
+			"BookId ": "Interior_Design3",
+			"BookName": "Simply-Built Furniture",
+			"Author": "Danny Proulx",
+			"price": "16.39",
+			"category": "Ingerior Design",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", Keep it simple, keep it basic, keep it fun!Simply-Built Furniture is part of Danny Proulx's legacy to the woodworking world.",
+			"src": "New Books/Interior3.jpg"
+		}, {
+			"BookId ": "Interior_Design4",
+			"BookName": "Build your Own Kitchen cabinets",
+			"Author": "Danny Rubie",
+			"price": "19.67",
+			"category": "Interior Design",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Superbly detailed, this step-by-step guide walks readers through the stages of planning, design, construction and installation. ",
+			"src": "New Books/Interior4.jpg"
+		}
+	],
+
+	"Relationships": [{
+			"BookId ": "Relationships1",
+			"BookName": "Too Good to Leave, Too Bad to Stay",
+			"Author": "Mira Kirshenbaum",
+			"price": "21.14",
+			"category": "Relationships",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "A book that deals with that most crucial of decisions - should you stay with your present partner or should you go? Brilliantly incisive, witty and extremely informative.",
+			"src": "New Books/Relationship1.jpg"
+		},
+
+		{
+			"BookId ": "Relationships2",
+			"BookName": "Build a life-long Love Affair",
+			"Author": "Andrew G Marshall",
+			"price": "7.99",
+			"category": "Relationships",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "We give our car or boiler regular services because these are things that we rely on and know it is better to fix minor glitches than wait until they become major problems. However when it comes to something as important as our relationship, we tend to close our eyes and hope for the best.",
+			"src": "New Books/Relationship2.jpg"
+		},
+
+		{
+			"BookId ": "Relationships3",
+			"BookName": "Act Like a Lady, Think Like a Man",
+			"Author": "Steve Harvey",
+			"price": "11.24",
+			"category": "Relationships",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Act Like a Lady, Think Like a Man is the definitive relationship guide for women.",
+			"src": "New Books/Relationship3.jpg"
+		}, {
+			"BookId ": "Relationships4",
+			"BookName": "The 7 Habits of Highly Effective Families",
+			"Author": "Stephen R Covey",
+			"price": "12.74",
+			"category": "Relationships",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "The 7 Habits of Highly Effective People, Steven R. Covey presents a practical and philosophical guide to solving the problems--large and small, mundane and extraordinary--that confront all families and strong communities. ",
+			"src": "New Books/Relationship4.jpg"
+		}
+	],
+
+
+	"Featured": [{
+			"BookId ": "Relationships1",
+			"BookName": "Too Good to Leave, Too Bad to Stay",
+			"Author": "Mira Kirshenbaum",
+			"price": "21.14",
+			"category": "Relationships",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "A book that deals with that most crucial of decisions - should you stay with your present partner or should you go? Brilliantly incisive, witty and extremely informative.",
+			"src": "New Books/Relationship1.jpg"
+		},
+
+		{
+			"BookId ": "Education3",
+			"BookName": "School Leader Internship",
+			"Author": "Gary E. Martin",
+			"price": "44.95",
+			"category": "Education",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": ", School leadership internships are the bridge between classroom teachers and first-time leadership positions.",
+			"src": "New Books/Education3.jpg"
+		},
+
+		{
+			"BookId ": "Travel4",
+			"BookName": "Humans of New York, ",
+			"Author": "Brandon Staton",
+			"price": "34.99",
+			"category": "Travel",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "Surprising and moving, printed in a beautiful full-color, hardbound edition, Humans of New York is a celebration of individuality and a tribute to the spirit of the city.",
+			"src": "New Books/Travel4.jpg"
+		}, {
+			"BookId ": "1",
+			"BookName": "Steal Like An Artist",
+			"Author": "Austin Kleon",
+			"price": "12.95",
+			"category": "Art",
+			"popularity": "High",
+			"onsale": "yes",
+			"description": "You don’t need to be a genius, you just need to be yourself. That’s the message from Austin Kleon, a young writer and artist who knows that creativity is everywhere, creativity is for everyone.",
+			"src": "New Books/Art1.png"
+		}
+	],
+	"Deals": [{
+			"BookId ": "Sports4",
+			"BookName": "Across a Hundred Mountains",
+			"Author": "Reyna Grande",
+			"price": "16.00",
+			"category": "Sports",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Winner of the American Book Award, Across a Hundred Mountains is a stunning and poignant novel about a young girl who leaves her small town in Mexico to find her father, who left his family to find work in America—a story of migration, loss, and discovery",
+			"src": "New Books/Sports4.jpg"
+		},
+
+		{
+			"BookId ": "Music3",
+			"BookName": "MIDI Power",
+			"Author": "Robert Guerin",
+			"price": "34.99",
+			"category": "Music",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": "From how MIDI works, to how to connect devices through it, to how it integrates into a computer environment, ",
+			"src": "New Books/Music3.jpg"
+		},
+
+		{
+			"BookId ": "Drama1",
+			"BookName": "Antigone,",
+			"Author": "Sophocles; Ruby Blondell",
+			"price": "6.95",
+			"category": "Drama",
+			"popularity": "Medium",
+			"onsale": "yes",
+			"description": "This is an English translation of Sophocles’ tragedy of Antigone and her fate when she decides to bury her dead brother Polyneices. ",
+			"src": "New Books/Drama1.jpg"
+		},
+
+		{
+			"BookId ": "4",
+			"BookName": "The Renaissance",
+			"Author": "Linda kemp",
+			"price": "4.99",
+			"category": "Art",
+			"popularity": "High",
+			"onsale": "yes",
+			"description": "The era now referred to as the Renaissance represented an unparalleled blossoming of art and culture.",
+			"src": "New Books/Art4.jpg"
+		}, {
+			"BookId ": "Photography1",
+			"BookName": "Astrophotography",
+			"Author": "Thierry Legault",
+			"price": "31,99",
+			"category": "Photography",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", Today's photographic equipment allows amateurs to take pictures of the stars that far surpass images taken just a few decades ago by even the largest observatories-and this book will teach you how.",
+			"src": "New Books/Photography1.jpg"
+		}, {
+			"BookId ": "Health_self_help3",
+			"BookName": "Show Me The Money: Honey",
+			"Author": "Ian Wishart",
+			"price": "32.99",
+			"category": "Health and Selfhelp",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": ", Show Me The Money, Honey is the sequel to Wishart's inter¬national bestseller Vitamin D, praised by doctors and researchers for its thoroughness.",
+			"src": "New Books/Health3.jpeg"
+		}, {
+			"BookId ": "Interior_Design3",
+			"BookName": "Simply-Built Furniture",
+			"Author": "Danny Proulx",
+			"price": "16.39",
+			"category": "Ingerior Design",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", Keep it simple, keep it basic, keep it fun!Simply-Built Furniture is part of Danny Proulx's legacy to the woodworking world.",
+			"src": "New Books/Interior3.jpg"
+		}, {
+			"BookId ": "Gardening3",
+			"BookName": "Grow Your Own Groceries",
+			"Author": "Linda Gray",
+			"price": "19.95",
+			"category": "Gardening",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Producing your own food is not only rewarding but - in times of economic and environmental changes - increasingly a must! Nature provides everything the human body requires to thrive, and cultivating some of those natural products in your own back garden will not only produce the best food on the planet for you and your loved ones. ",
+			"src": "New Books/Garden3.jpg"
+		}, {
+			"BookId ": "Humor2",
+			"BookName": "Henry and Ribsy",
+			"Author": "Beverly Cleary",
+			"price": "5.24",
+			"category": "Humor",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "In this humorous and heartfelt novel from Newbery Medal-winning author Beverly Cleary, the bond between a boy and his dog proves strong, as Henry vows to stick up for Ribsy…even if he is a trouble-maker!",
+			"src": "New Books/Humour2.jpg"
+		}, {
+			"BookId ": "Photography3",
+			"BookName": "Quiet Hours",
+			"Author": "Mike Melman",
+			"price": "35.00",
+			"category": "Photography",
+			"popularity": "High",
+			"onsale": "Yes",
+			"description": ", A milling district along the Mississippi River. A railroad bridge on Washington Avenue.",
+			"src": "New Books/Photography3.jpg"
+		}, {
+			"BookId ": "Fiction_Poetry2",
+			"BookName": "Shirley",
+			"Author": "Charlotte Bronte",
+			"price": "3.99",
+			"category": "Fiction and Poetry",
+			"popularity": "Medium",
+			"onsale": "yes",
+			"description": "Shirley was the second published novel by Charlotte Bronte, afterJane Eyre.",
+			"src": "New Books/Fiction2.jpg"
+		}, {
+			"BookId ": "Biography1",
+			"BookName": "Killing Patton",
+			"Author": "Bill O’ Reilly",
+			"price": "22.50",
+			"category": "Biography",
+			"popularity": "Medium",
+			"onsale": "Yes",
+			"description": "Readers around the world have thrilled to Killing Lincoln, Killing Kennedy, and Killing Jesus--riveting works of nonfiction that journey into the heart of the most famous murders in history.",
+			"src": "New Books/Biography1.jpg"
+		}
+	]
+}
